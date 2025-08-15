@@ -13,5 +13,5 @@ Minhas áreas de interesse incluem:
 - **Ciência de Dados aplicada ao setor público**  
 
 📫 Você pode me encontrar em:  
-- LinkedIn: [linkedin.com/in/andrepaespaixao](https://www.linkedin.com/in/andrepaespaixao)  
+- LinkedIn: https://www.linkedin.com/in/andrepaixao81/
 
