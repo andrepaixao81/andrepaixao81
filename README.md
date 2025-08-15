@@ -12,8 +12,6 @@ Minhas áreas de interesse incluem:
 - **Segurança da Informação**  
 - **Ciência de Dados aplicada ao setor público**  
 
-🔭 No GitHub, compartilho projetos relacionados a **análise de dados, automação de processos e boas práticas de TI e compliance**.  
-
 📫 Você pode me encontrar em:  
 - LinkedIn: [linkedin.com/in/andrepaespaixao](https://www.linkedin.com/in/andrepaespaixao)  
 
