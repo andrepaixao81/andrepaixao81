@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou André Paes Paixão 👋
 
-<!--
-**andrepaixao81/andrepaixao81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Encarregado de Proteção de Dados (DPO)** no setor público, com foco em **LGPD, governança de TI, segurança da informação** e **conformidade legal**.  
 
-Here are some ideas to get you started:
+Possuo MBA em Governança, Projetos e Serviços de TI (UFRJ), com especialização no uso de frameworks como COBIT 2019 e metodologias de conformidade contínua aplicadas ao setor público.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente curso **graduação em Ciência da Computação** e **pós-graduação em Análise de Dados como Método de Apoio às Políticas Públicas**, integrando **ciência de dados à gestão pública e formulação de políticas baseadas em evidências**.  
+
+Minhas áreas de interesse incluem:  
+- **Privacidade e proteção de dados**  
+- **Governança de TI e COBIT 2019**  
+- **Segurança da Informação**  
+- **Ciência de Dados aplicada ao setor público**  
+
+🔭 No GitHub, compartilho projetos relacionados a **análise de dados, automação de processos e boas práticas de TI e compliance**.  
+
+📫 Você pode me encontrar em:  
+- LinkedIn: [linkedin.com/in/andrepaespaixao](https://www.linkedin.com/in/andrepaespaixao)  
+
